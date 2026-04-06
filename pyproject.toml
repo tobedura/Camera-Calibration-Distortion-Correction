@@ -1,0 +1,10 @@
+[project]
+name = "camera_calibration"
+version = "0.1.0"
+description = "Python + OpenCV + PyQt5 기반의 웹캠 비디오 녹화 프로그램 + camera_calibration"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "opencv-python>=4.13.0.92",
+    "pyqt5>=5.15.11",
+]
